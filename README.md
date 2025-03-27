@@ -57,7 +57,7 @@ This is a **Blood Donation Website** designed to facilitate blood donations by p
 
 
 ### Donor Form
-<img src="https://github.com/user-attachments/assets/ee9a8b16-a373-488c-92eb-49a6831d671b" alt="Screenshot 2024-08-19 231447" width="600" height="auto">
+<img src="https://github.com/user-attachments/assets/1945a6b0-3f88-40be-bce1-714cdf86c0ca" alt="Screenshot 2024-08-19 231447" width="600" height="auto">
 
 
 ### Blood Request Form
